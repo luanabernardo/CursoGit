@@ -3,3 +3,4 @@
 ## Salvando alterações  no Git 
 * um tópico aleatório
 * comando git pull
+* comando git fetch
